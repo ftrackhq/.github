@@ -1,26 +1,22 @@
 <!--(
   Copy the id and paste it to the appropriate CLICKUP-<id> / FTRACK-<id> /  SENTRY-<id> / ZENDESK-<id> link.
   Please remember to remove the unused ones.
+  
+  * CLICKUP-
+  * FTRACK-
+  * SENTRY-
+  * ZENDESK-
+
 -->
 Resolves : 
 
-* CLICKUP-
-* FTRACK-
-* SENTRY-
-* ZENDESK-
+<ADD TASK REFERENCE>
 
 - [ ] I have added automatic tests where applicable.
 - [ ] The PR contains a description of what has been changed.
 - [ ] The description contains manual test instructions.
-- [ ] The PR contains update to the release notes.
-- [ ] The PR contains update to the documentation.
-
-<!--
-  What platform / browser this PR has been tested with.
--->
-
-This PR has been tested on :
-- [ ]
+- [ ] The PR contains updates to the release notes.
+- [ ] I have verified that the documentation is still up to date.
 
 ## Changes
 <!--
