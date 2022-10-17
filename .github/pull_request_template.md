@@ -3,14 +3,13 @@
   Please remember to remove the unused ones.
   
   * CLICKUP-
-  * FTRACK-
+  * FT-
   * SENTRY-
   * ZENDESK-
 
 -->
-Resolves : 
 
-<ADD TASK REFERENCE>
+Resolves <!--Task reference -->
 
 - [ ] I have added automatic tests where applicable.
 - [ ] The PR contains a description of what has been changed.
